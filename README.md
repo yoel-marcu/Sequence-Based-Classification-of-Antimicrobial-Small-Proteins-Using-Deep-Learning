@@ -1,5 +1,4 @@
 # Sequence-Based-Classification-of-Antimicrobial-Small-Proteins-Using-Deep-Learning
-Overview
 
 Antimicrobial resistance (AMR) is a major global health challenge, motivating the search for novel antimicrobial agents. Antimicrobial small proteins (AMSPs, 50–150 amino acids) are an underexplored class with therapeutic potential.
 
